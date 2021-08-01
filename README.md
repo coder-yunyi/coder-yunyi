@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning make pages and make program with python.
 - 💞️ I'm a primary student.I like programming.
 - 📫 If you want to reach me,You can send an email to hyp725216@qq.com.
-- **I can't speak English very well.Please speak Chinese to me,thanks.**
+- **I can't speak English very well.Please speak Chinese with me,thanks.**
